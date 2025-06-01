@@ -1,0 +1,31 @@
+code,name,cost
+1,Appendectomy,2293.9
+2,CT Scan,7866.97
+3,MRI,1607.1
+4,Blood Test,1669.98
+5,X-Ray,6279.61
+6,Echocardiogram,9479.32
+7,Colonoscopy,8591.85
+8,Endoscopy,8887.19
+9,Dialysis,1451.87
+10,Cataract Surgery,3853.61
+11,Hip Replacement,756.97
+12,Knee Arthroscopy,6283.95
+13,Ultrasound,958.61
+14,Biopsy,2188.98
+15,Angioplasty,2733.05
+16,Chemotherapy,881.14
+17,Radiation Therapy,4153.72
+18,Pacemaker Implant,4062.07
+19,Cesarean Section,972.82
+20,Tonsillectomy,3703.47
+21,Skin Graft,2156.4
+22,Bronchoscopy,5907.78
+23,Laparoscopy,2767.66
+24,Spinal Fusion,9601.52
+25,Gastrectomy,3011.49
+26,Liver Transplant,711.95
+27,Coronary Bypass,1063.06
+28,Thyroidectomy,4888.05
+29,Mastectomy,1776.81
+30,Vasectomy,1974.26

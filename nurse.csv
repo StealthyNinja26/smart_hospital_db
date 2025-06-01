@@ -1,0 +1,61 @@
+employeeid,name,position,registered,ssn
+1,Gary Martinez,Nurse Practitioner,False,448012921
+2,Meghan Ayala,Staff Nurse,True,913756589
+3,Ronald Smith,Staff Nurse,True,855276321
+4,Ryan Thompson,Licensed Practical Nurse,False,651440845
+5,Noah Duke,Registered Nurse,True,710065978
+6,Mr. Christopher Ryan MD,Registered Nurse,False,406737540
+7,Jonathon Singh,Staff Nurse,False,419173186
+8,Richard Sherman Jr.,Registered Nurse,True,256739959
+9,Seth Parks,Licensed Practical Nurse,True,806948341
+10,Jordan Bryant,Registered Nurse,False,541435837
+11,Joseph Walker,Licensed Practical Nurse,True,442563739
+12,Elizabeth Good,Registered Nurse,True,297648714
+13,Michelle Pollard,Nurse Practitioner,False,649886595
+14,Hannah Gray,Staff Nurse,False,760620240
+15,Anthony Lynch,Staff Nurse,False,803435900
+16,Beth Taylor,Nurse Practitioner,True,459699846
+17,Lindsey Lewis,Charge Nurse,False,662003313
+18,Michael Wallace,Licensed Practical Nurse,False,779126925
+19,Logan Anderson,Charge Nurse,True,479829363
+20,Kevin Andrews,Registered Nurse,True,715977091
+21,James Sharp,Registered Nurse,True,619674953
+22,Leonard Garcia,Charge Nurse,True,523420410
+23,Elizabeth Franco,Charge Nurse,True,512175040
+24,John Casey,Staff Nurse,False,263056886
+25,Jacob Simmons,Nurse Practitioner,False,210678909
+26,Corey Kennedy,Charge Nurse,False,339919501
+27,Jacob Haynes,Nurse Practitioner,True,371885985
+28,Valerie Buck,Charge Nurse,True,345521274
+29,Alan Martinez,Charge Nurse,True,751491634
+30,Jennifer Rivera,Licensed Practical Nurse,False,620965266
+31,Terri Green,Licensed Practical Nurse,False,852993428
+32,Gary Estes,Nurse Practitioner,False,968305463
+33,Steven Sanders,Licensed Practical Nurse,False,740352992
+34,Joseph Roberts,Registered Nurse,True,798725424
+35,Robert Mcgee,Licensed Practical Nurse,False,598708679
+36,Robert Ross,Charge Nurse,True,282271163
+37,Edwin Walton,Staff Nurse,True,744662561
+38,James James,Charge Nurse,False,926979978
+39,Gina Williams,Licensed Practical Nurse,False,401441501
+40,Scott Copeland,Licensed Practical Nurse,False,935623764
+41,Amber King,Nurse Practitioner,True,834718846
+42,Julie Booker,Charge Nurse,False,305211423
+43,Evan Kelly,Nurse Practitioner,False,302037457
+44,Sheila Pineda,Nurse Practitioner,True,126178736
+45,Jose Moore,Charge Nurse,False,260187519
+46,Lucas Parrish,Registered Nurse,False,132127275
+47,Christina Mitchell,Charge Nurse,False,311561784
+48,Joseph Carrillo,Registered Nurse,False,707918752
+49,Shari Jones,Registered Nurse,True,248067678
+50,Steven Simpson,Staff Nurse,False,853247404
+51,Richard Acosta,Charge Nurse,False,370394355
+52,Mark Mitchell,Licensed Practical Nurse,True,195829350
+53,Vickie Alexander,Charge Nurse,False,849611776
+54,Andrea Peters,Charge Nurse,False,911912661
+55,Robert Higgins,Nurse Practitioner,True,103281773
+56,Mrs. Ashley Hatfield,Licensed Practical Nurse,False,146495909
+57,Thomas Perez,Charge Nurse,True,637219168
+58,Olivia Montoya,Staff Nurse,True,964034643
+59,Michael Poole,Charge Nurse,True,969350984
+60,Janice Wells,Staff Nurse,True,817463470
